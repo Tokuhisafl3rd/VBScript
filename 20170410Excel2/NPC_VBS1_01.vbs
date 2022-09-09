@@ -1,0 +1,1 @@
+MsgBox "ì‹Æ‚ðŠJŽn‚µ‚Ü‚·B"
